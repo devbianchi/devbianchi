@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devbianchi/devbianchi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="170" src="https://i.pinimg.com/1200x/66/71/3a/66713a96b9b21dffd3a85a5d748a3171.jpg"  />
 
 ###
