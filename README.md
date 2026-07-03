@@ -1,88 +1,80 @@
-<h2 align="left">Hi 👋! My name is Guilherme and I'm a Backend Developer (Frontend aware) from Brazil</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devbianchi/devbianchi/output/snake.svg" alt="Snake animation" />
-
-###
+![Banner GitHub]()
 
 <div align="center">
-  <a href="https://www.youtube.com/@_GVIL_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/gui.rnachado/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="lightziny" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="guilherme.bianchi.machado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-bmachado/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevbianchi%2Fdevbianchi&label=VISITANTES&labelColor=%230A0209&countColor=%230A0209" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/guilherme-bmachado/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+<a href="https://dev.to/devbianchi"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
+<a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
+<a href="mailto:guilherme.bianchi.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+</div>
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Sobre Mim  ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div>
+
+<i>Construindo aplicações web escaláveis e explorando o mundo da Inteligência Artificial.</i> <br><br>
+
+👋 Olá! Eu sou o Guilherme Bianchi — estudante de tecnologia focado em me tornar um Desenvolvedor Fullstack.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) de forma presencial na Fatec Indaiatuba. No meu dia a dia de desenvolvimento, utilizo Arch Linux e busco sempre aplicar boas práticas de código e arquitetura. 
+
+Um pouco mais sobre mim:
+
+-  **Stack Principal:** Trabalho com HTML, CSS, JavaScript, Tailwind e React no Front-end. No Back-end, utilizo Java, Spring Boot, MySQL e APIs REST.
+-  **DevOps & Cloud:** Experiência com Git, GitHub, pipelines de CI/CD e conhecimento em nuvem (AWS e Azure).
+-  **Interesses em Alta:** Apaixonado pelas possibilidades de Engenharia de IA e Orquestração de Agentes.
+-  **Objetivos:** Realizar projetos freelance para clientes internacionais e realizar o sonho de trabalhar como desenvolvedor no Japão.
+-  Quando não estou programando, provavelmente estou fazendo meu treino diário de calistenia.
+
 </div>
 
-###
+<br>
 
-<br clear="both">
+<details>
+  <summary>Eventos e Participações Recentes</summary>
 
-<p align="center">Currently learning:</p>
+- Presença confirmada no **GitHub Copilot Dev Days** na Fatec Indaiatuba (Abril 2026).
+- Participante do **Startup Day** promovido pelo Sebrae em Indaiatuba (Março 2026).
+</details>
 
-###
+<br>
 
-<br clear="both">
+### O Que Estou Estudando e Construindo 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+Como estou em constante evolução, aqui estão as áreas e tecnologias nas quais estou mergulhando no momento:
 
-###
+ **Ecossistema Java & Spring** <br />
+Aprofundando os conhecimentos em Java, dominando especificamente o Spring Boot 4 e as novidades do Spring 7.
 
-<div align="center">
-</div>
+ **Cloud Computing** <br />
+Dedicando horas de estudo e buscando certificações em infraestrutura AWS e serviços em nuvem do Microsoft Azure.
 
-###
+ **Arquitetura Fullstack** <br />
+Unindo Front-end (React/Tailwind) com Back-end robusto (Node.js e Java) para criar sistemas completos, desde a modelagem do banco de dados até o deploy automatizado.
 
-<p align="left"></p>
+ **IA e Agentes** <br />
+Explorando ferramentas para automação de workflows e o ecossistema de orquestração de agentes autônomos.
 
-###
+<br>
 
-<img align="left" height="0" src="https://i.pinimg.com/1200x/66/71/3a/66713a96b9b21dffd3a85a5d748a3171.jpg"  />
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Seção de Projetos --------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-###
+# Meus Projetos <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+- **[Event Management System](https://github.com/devbianchi/seu-repositorio)**: Um sistema Fullstack completo para o gerenciamento de eventos, criado para ser o projeto principal do meu portfólio.
+- **[Intro Web Page](https://github.com/devbianchi/seu-repositorio)**: Um projeto simples focado em solidificar meus fundamentos de marcação e estilização pura com HTML e CSS.
+
+> *💜 Sinta-se à vontade para explorar meus repositórios. Em breve, mais integrações focadas em IA e sistemas complexos com Spring Boot!*
+
+<br>
+
+<hr>
+
+<!-- A animação da cobrinha puxa o histórico de contribuições do seu GitHub. Certifique-se de que o username "devbianchi" está correto no link abaixo -->
+![Animação GitHub Contribution](https://raw.githubusercontent.com/devbianchi/devbianchi/output/github-contribution-grid-snake-dark.svg)
