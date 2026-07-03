@@ -24,11 +24,11 @@ Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) de forma presencia
 
 Um pouco mais sobre mim:
 
--  **Stack Principal:** Trabalho com HTML, CSS, JavaScript, Tailwind e React no Front-end. No Back-end, utilizo Java, Spring Boot, MySQL e APIs REST.
--  **DevOps & Cloud:** Experiência com Git, GitHub, pipelines de CI/CD e conhecimento em nuvem (AWS e Azure).
--  **Interesses em Alta:** Apaixonado pelas possibilidades de Engenharia de IA e Orquestração de Agentes.
--  **Objetivos:** Realizar projetos freelance para clientes internacionais e realizar o sonho de trabalhar como desenvolvedor no Japão.
--  Quando não estou programando, provavelmente estou fazendo meu treino diário de calistenia.
+-  Stack Principal: Trabalho com HTML, CSS, JavaScript, Tailwind e React no Front-end. No Back-end, utilizo Java, Spring Boot, MySQL e APIs REST.
+-  DevOps & Cloud: Experiência com Git, GitHub, pipelines de CI/CD e conhecimento em nuvem (AWS e Azure).
+-  Interesses em Alta: Apaixonado pelas possibilidades de Engenharia de IA e Orquestração de Agentes.
+-  Objetivos: Realizar projetos freelance para clientes internacionais e realizar o sonho de trabalhar como desenvolvedor no Japão.
+-  Quando não estou programando, provavelmente estou tomando café e programando.
 
 </div>
 
