@@ -18,7 +18,7 @@
 
 <i>Building scalable web applications and exploring the world of Artificial Intelligence.</i> <br><br>
 
-👋 Hello! I'm Guilherme Bianchi — a technology student focused on becoming a Fullstack Developer.
+👋 Hello! I'm Guilherme Bianchi Machado — a technology student focused on becoming a Fullstack Developer.
 
 I am currently studying Systems Analysis and Development (ADS) on-campus at Fatec Indaiatuba. In my day-to-day development, I use Arch Linux and always strive to apply good coding and architectural practices. 
 
