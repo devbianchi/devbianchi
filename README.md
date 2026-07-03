@@ -77,4 +77,4 @@ Explorando ferramentas para automação de workflows e o ecossistema de orquestr
 
 <hr>
 
-![Animação GitHub Contribution](https://raw.githubusercontent.com/devbianchi/devbianchi/.github/workflows/snake.yml)
+![snake gif](https://github.com/devbianchi/devbianchi/blob/output/github-contribution-grid-snake.svg)
