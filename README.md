@@ -67,9 +67,10 @@ Explorando ferramentas para automação de workflows e o ecossistema de orquestr
 
 # Meus Projetos <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-- **[Event Management System](https://github.com/devbianchi/seu-repositorio)**: Um sistema Fullstack completo para o gerenciamento de eventos, criado para ser o projeto principal do meu portfólio.
-- **[Intro Web Page](https://github.com/devbianchi/seu-repositorio)**: Um projeto simples focado em solidificar meus fundamentos de marcação e estilização pura com HTML e CSS.
-
+- **[Precify Web](https://github.com/devbianchi/precify-web)**: O Precify Web é uma plataforma moderna, performática e responsiva, projetada para solucionar a dor de freelancers, autônomos e desenvolvedores independentes: a precificação justa e lucrativa de seus projetos.
+- **[Intro Web Page](https://github.com/devbianchi/precify-api)**: A Precify API é uma solução robusta de backend desenvolvida com Java 21 e Spring Boot 4.1 para o Precify Web.
+- **[Intro Web Page](https://github.com/devbianchi/TechHub)**: Uma solução tecnólogica moderna para mostrar produtos e serviços inovadores para a era digital.
+- **[Intro Web Page](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)**: Sistema Inteligente de Preservação de Nutrientes via IoT (Projeto do primeiro semestre).
 > *💜 Sinta-se à vontade para explorar meus repositórios. Em breve, mais integrações focadas em IA e sistemas complexos com Spring Boot!*
 
 <br>
