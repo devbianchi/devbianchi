@@ -1,77 +1,77 @@
 ![Banner GitHub](https://github.com/devbianchi/devbianchi/blob/main/bannerLinkGit.png)
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevbianchi%2Fdevbianchi&label=VISITANTES&labelColor=%230A0209&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevbianchi%2Fdevbianchi&label=VISITORS&labelColor=%230A0209&countColor=%230A0209" />
   <br><br>
-  <a href="https://www.linkedin.com/in/guilherme-bmachado/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-bmachado/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
 <a href="https://dev.to/devbianchi"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
 <a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
-<a href="mailto:guilherme.bianchi.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+<a href="mailto:guilherme.bianchi.machado@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
 </div>
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Sobre Mim  ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- About Me  ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div>
 
-<i>Construindo aplicações web escaláveis e explorando o mundo da Inteligência Artificial.</i> <br><br>
+<i>Building scalable web applications and exploring the world of Artificial Intelligence.</i> <br><br>
 
-👋 Olá! Eu sou o Guilherme Bianchi — estudante de tecnologia focado em me tornar um Desenvolvedor Fullstack.
+👋 Hello! I'm Guilherme Bianchi — a technology student focused on becoming a Fullstack Developer.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) de forma presencial na Fatec Indaiatuba. No meu dia a dia de desenvolvimento, utilizo Arch Linux e busco sempre aplicar boas práticas de código e arquitetura. 
+I am currently studying Systems Analysis and Development (ADS) on-campus at Fatec Indaiatuba. In my day-to-day development, I use Arch Linux and always strive to apply good coding and architectural practices. 
 
-Um pouco mais sobre mim:
+A little more about me:
 
--  Stack Principal: Trabalho com HTML, CSS, JavaScript, Tailwind e React no Front-end. No Back-end, utilizo Java, Spring Boot, MySQL e APIs REST.
--  DevOps & Cloud: Experiência com Git, GitHub, pipelines de CI/CD e conhecimento em nuvem (AWS e Azure).
--  Interesses em Alta: Apaixonado pelas possibilidades de Engenharia de IA e Orquestração de Agentes.
--  Objetivos: Realizar projetos freelance para clientes internacionais e realizar o sonho de trabalhar como desenvolvedor no Japão.
--  Quando não estou programando, provavelmente estou tomando café e programando.
+-  **Main Stack:** I work with HTML, CSS, JavaScript, Tailwind, and React on the Front-end. On the Back-end, I use Java, Spring Boot, MySQL, and REST APIs.
+-  **DevOps & Cloud:** Experience with Git, GitHub, CI/CD pipelines, and cloud knowledge (AWS and Azure).
+-  **Current Interests:** Passionate about the possibilities of AI Engineering and Agent Orchestration.
+-  **Goals:** To take on freelance projects for international clients and fulfill my dream of working as a developer in Japan.
+-  When I'm not coding, I'm probably drinking coffee and coding.
 
 </div>
 
 <br>
 
 <details>
-  <summary>Eventos e Participações Recentes</summary>
+  <summary>Recent Events and Participations</summary>
 
-- Presença confirmada no **GitHub Copilot Dev Days** na Fatec Indaiatuba (Abril 2026).
-- Participante do **Startup Day** promovido pelo Sebrae em Indaiatuba (Março 2026).
+- Confirmed attendance at **GitHub Copilot Dev Days** at Fatec Indaiatuba (April 2026).
+- Participated in **Startup Day** promoted by Sebrae in Indaiatuba (March 2026).
 </details>
 
 <br>
 
-### O Que Estou Estudando e Construindo 
+### What I'm Studying and Building 
 
-Como estou em constante evolução, aqui estão as áreas e tecnologias nas quais estou mergulhando no momento:
+As I am constantly evolving, here are the areas and technologies I am currently diving into:
 
- **Ecossistema Java & Spring** <br />
-Aprofundando os conhecimentos em Java, dominando especificamente o Spring Boot 4 e as novidades do Spring 7.
+ **Java & Spring Ecosystem** <br />
+Deepening my knowledge in Java, specifically mastering Spring Boot 4 and the new features of Spring 7.
 
  **Cloud Computing** <br />
-Dedicando horas de estudo e buscando certificações em infraestrutura AWS e serviços em nuvem do Microsoft Azure.
+Dedicating hours of study and pursuing certifications in AWS infrastructure and Microsoft Azure cloud services.
 
- **Arquitetura Fullstack** <br />
-Unindo Front-end (React/Tailwind) com Back-end robusto (Node.js e Java) para criar sistemas completos, desde a modelagem do banco de dados até o deploy automatizado.
+ **Fullstack Architecture** <br />
+Combining Front-end (React/Tailwind) with a robust Back-end (Node.js and Java) to create complete systems, from database modeling to automated deployment.
 
- **IA e Agentes** <br />
-Explorando ferramentas para automação de workflows e o ecossistema de orquestração de agentes autônomos.
+ **AI and Agents** <br />
+Exploring tools for workflow automation and the autonomous agent orchestration ecosystem.
 
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Seção de Projetos --------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Meus Projetos <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# My Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-- **[Precify Web](https://github.com/devbianchi/precify-web)**: O Precify Web é uma plataforma moderna, performática e responsiva, projetada para solucionar a dor de freelancers, autônomos e desenvolvedores independentes: a precificação justa e lucrativa de seus projetos.
-- **[Precify API](https://github.com/devbianchi/precify-api)**: A Precify API é uma solução robusta de backend desenvolvida com Java 21 e Spring Boot 4.1 para o Precify Web.
-- **[Tech Hub](https://github.com/devbianchi/TechHub)**: Uma solução tecnólogica moderna para mostrar produtos e serviços inovadores para a era digital.
-- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)**: Sistema Inteligente de Preservação de Nutrientes via IoT (Projeto do primeiro semestre).
-> *💜 Sinta-se à vontade para explorar meus repositórios. Em breve, mais integrações focadas em IA e sistemas complexos com Spring Boot!*
+- **[Precify Web](https://github.com/devbianchi/precify-web)**: Precify Web is a modern, performant, and responsive platform designed to solve the pain points of freelancers, autonomous workers, and independent developers: fair and profitable pricing for their projects.
+- **[Precify API](https://github.com/devbianchi/precify-api)**: Precify API is a robust backend solution developed with Java 21 and Spring Boot 4.1 for Precify Web.
+- **[Tech Hub](https://github.com/devbianchi/TechHub)**: A modern technological solution to showcase innovative products and services for the digital age.
+- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)**: Intelligent Nutrient Preservation System via IoT (First-semester project).
+> *💜 Feel free to explore my repositories. Coming soon: more integrations focused on AI and complex systems with Spring Boot!*
 
 <br>
 
