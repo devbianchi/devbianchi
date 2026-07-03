@@ -77,5 +77,4 @@ Explorando ferramentas para automação de workflows e o ecossistema de orquestr
 
 <hr>
 
-<!-- A animação da cobrinha puxa o histórico de contribuições do seu GitHub. Certifique-se de que o username "devbianchi" está correto no link abaixo -->
-![Animação GitHub Contribution](https://raw.githubusercontent.com/devbianchi/devbianchi/output/github-contribution-grid-snake-dark.svg)
+![Animação GitHub Contribution](https://raw.githubusercontent.com/devbianchi/devbianchi/.github/workflows/snake.yml)
