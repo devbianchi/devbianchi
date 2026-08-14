@@ -14,67 +14,40 @@
 <!--- -- About Me  ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div>
-
-<i>Building scalable web applications and exploring the world of Artificial Intelligence.</i> <br><br>
-
-👋 Hello! I'm Guilherme Bianchi Machado — a technology student focused on becoming a Fullstack Developer.
-
-I am currently studying Systems Analysis and Development (ADS) on-campus at Fatec Indaiatuba. In my day-to-day development, I use Arch Linux and always strive to apply good coding and architectural practices. 
-
+Building backend systems with Java and exploring QA Engineering as my next frontier.
+ 
+👋 Hello! I'm Guilherme Bianchi Machado — a technology student focused on Backend Development, with software engineering as my long-term goal.
+ 
+I'm currently studying Systems Analysis and Development (ADS) on-campus at Fatec Indaiatuba. In my day-to-day development, I use Arch Linux and always strive to apply good coding and architectural practices.
+ 
 A little more about me:
-
--  **Main Stack:** I work with HTML, CSS, JavaScript, Tailwind, and React on the Front-end. On the Back-end, I use Java, Spring Boot, MySQL, and REST APIs.
--  **DevOps & Cloud:** Experience with Git, GitHub, CI/CD pipelines, and cloud knowledge (AWS and Azure).
--  **Current Interests:** Passionate about the possibilities of AI Engineering and Agent Orchestration.
--  **Goals:** To take on freelance projects for international clients and fulfill my dream of working as a developer in Japan.
--  When I'm not coding, I'm probably drinking coffee and coding.
-
-</div>
-
-<br>
-
-<details>
-  <summary>Recent Events and Participations</summary>
-
-- Confirmed attendance at **GitHub Copilot Dev Days** at Fatec Indaiatuba (April 2026).
-- Participated in **Startup Day** promoted by Sebrae in Indaiatuba (March 2026).
-</details>
-
-<br>
-
-### What I'm Studying and Building 
-
-As I am constantly evolving, here are the areas and technologies I am currently diving into:
-
- **Java & Spring Ecosystem** <br />
-Deepening my knowledge in Java, specifically mastering Spring Boot 4 and the new features of Spring 7.
-
- **Cloud Computing** <br />
-Dedicating hours of study and pursuing certifications in AWS infrastructure and Microsoft Azure cloud services.
-
- **Fullstack Architecture** <br />
-Combining Front-end (React/Tailwind) with a robust Back-end (Node.js and Java) to create complete systems, from database modeling to automated deployment.
-
- **AI and Agents** <br />
-Exploring tools for workflow automation and the autonomous agent orchestration ecosystem.
-
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# My Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-- **[Precify Web](https://github.com/devbianchi/precify-web)**: Precify Web is a modern, performant, and responsive platform designed to solve the pain points of freelancers, autonomous workers, and independent developers: fair and profitable pricing for their projects.
-- **[Precify API](https://github.com/devbianchi/precify-api)**: Precify API is a robust backend solution developed with Java 21 and Spring Boot 4.1 for Precify Web.
-- **[Tech Hub](https://github.com/devbianchi/TechHub)**: A modern technological solution to showcase innovative products and services for the digital age.
-- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)**: Intelligent Nutrient Preservation System via IoT (First-semester project).
-> *💜 Feel free to explore my repositories. Coming soon: more integrations focused on AI and complex systems with Spring Boot!*
-
-<br>
-
-<hr>
+ 
+- **Main Stack:** Backend with Java, Spring Boot, PostgreSQL, MySQL, and REST APIs (JWT, Swagger). Front-end with React and Tailwind CSS to close the loop on my own projects.
+- **Currently Exploring:** QA Engineering — hands-on with Postman (requests, environments, assertions) and bug-tracking workflows in Jira.
+- **Cloud:** AWS fundamentals, with certifications in Global Infrastructure (Region, AZ, VPC) and Managed Databases/DMS.
+- **Goals:** Building a solid backend foundation, growing into QA and eventually software engineering, freelancing along the way, and working toward a developer career in Japan.
+- When I'm not coding, I'm probably drinking coffee and coding.
+## Recent Events & Participations
+ 
+- GitHub Copilot Dev Days
+## What I'm Studying and Building
+ 
+**Java & Spring Ecosystem**
+Deepening my knowledge of Java and Spring Boot — API design, authentication, and clean architecture.
+ 
+**QA Engineering**
+Learning the fundamentals of software testing: API testing with Postman, bug lifecycle, and test case writing.
+ 
+**Cloud Computing**
+Continuing to build on AWS fundamentals with hands-on infrastructure and database certifications.
+ 
+## My Projects
+ 
+- **[Precify API](https://github.com/devbianchi/precify-api)** — REST API built with Java 21 and Spring Boot for tracking competitor pricing: product registration, price collection, and historical data.
+- **[Precify Web](https://github.com/devbianchi/precify-web)** — React front-end for Precify, consuming the API for login, product listings, and price history.
+- **[Tech Hub](https://github.com/devbianchi/TechHub)** — Multi-page React app with routing and animated transitions, built to practice React Router in a real project.
+- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)** — IoT-based nutrient preservation system built with Arduino (first-semester project).
+💜 Feel free to explore my repositories — more backend and QA-focused projects coming as I keep building.
 
 ![snake gif](https://github.com/devbianchi/devbianchi/blob/output/snake.svg)
+
