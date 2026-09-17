@@ -14,40 +14,35 @@
 <!--- -- About Me  ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-Building backend systems with Java and exploring QA Engineering as my next frontier.
- 
-👋 Hello! I'm Guilherme Bianchi Machado — a technology student focused on Backend Development, with software engineering as my long-term goal.
- 
-I'm currently studying Systems Analysis and Development (ADS) on-campus at Fatec Indaiatuba. In my day-to-day development, I use Arch Linux and always strive to apply good coding and architectural practices.
- 
-A little more about me:
- 
-- **Main Stack:** Backend with Java, Spring Boot, PostgreSQL, MySQL, and REST APIs (JWT, Swagger). Front-end with React and Tailwind CSS to close the loop on my own projects.
-- **Currently Exploring:** QA Engineering — hands-on with Postman (requests, environments, assertions) and bug-tracking workflows in Jira.
-- **Cloud:** AWS fundamentals, with certifications in Global Infrastructure (Region, AZ, VPC) and Managed Databases/DMS.
-- **Goals:** Building a solid backend foundation, growing into QA and eventually software engineering, freelancing along the way, and working toward a developer career in Japan.
-- When I'm not coding, I'm probably drinking coffee and coding.
-## Recent Events & Participations
- 
-- GitHub Copilot Dev Days
-## What I'm Studying and Building
- 
-**Java & Spring Ecosystem**
-Deepening my knowledge of Java and Spring Boot — API design, authentication, and clean architecture.
- 
-**QA Engineering**
-Learning the fundamentals of software testing: API testing with Postman, bug lifecycle, and test case writing.
- 
+Backend Java Developer em formação, com foco em construir uma base sólida em Java e Spring.
+
+👋 Olá! Sou Guilherme Bianchi Machado, estudante de tecnologia com foco em Backend Development.
+
+Curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Indaiatuba e atualmente atuo em estágio de TI, mantendo estudo constante em Java e Spring em paralelo. Uso Arch Linux no dia a dia e busco aplicar boas práticas de código e arquitetura em tudo que construo.
+
+Um pouco mais sobre mim:
+
+- **Stack principal:** Java, Spring Boot, PostgreSQL, MySQL, REST APIs (JWT, Swagger/OpenAPI), JUnit 5, Mockito, Testcontainers, Docker, GitHub Actions.
+- **Cloud:** fundamentos de AWS, com certificações em Global Infrastructure (Region, AZ, VPC) e Managed Databases/DMS.
+- **Objetivo:** consolidar backend com Java/Spring, seguir para certificação OCA Java e AWS, e evoluir para uma posição de desenvolvedor(a) backend.
+- Quando não estou codando, provavelmente estou tomando café.
+
+## O que estou estudando e construindo
+
+**Java & Ecossistema Spring**
+Aprofundando design de APIs, autenticação e arquitetura limpa com Java e Spring Boot.
+
 **Cloud Computing**
-Continuing to build on AWS fundamentals with hands-on infrastructure and database certifications.
- 
-## My Projects
- 
-- **[Precify API](https://github.com/devbianchi/precify-api)** — REST API built with Java 21 and Spring Boot for tracking competitor pricing: product registration, price collection, and historical data.
-- **[Precify Web](https://github.com/devbianchi/precify-web)** — React front-end for Precify, consuming the API for login, product listings, and price history.
-- **[Tech Hub](https://github.com/devbianchi/TechHub)** — Multi-page React app with routing and animated transitions, built to practice React Router in a real project.
-- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)** — IoT-based nutrient preservation system built with Arduino (first-semester project).
-💜 Feel free to explore my repositories — more backend and QA-focused projects coming as I keep building.
+Seguindo com fundamentos de AWS, infraestrutura e certificações de banco de dados gerenciado.
+
+## Meus Projetos
+
+- **[Library Management System](https://github.com/devbianchi/SistemaDeGerenciamentoDeBiblioteca)** — Sistema de gerenciamento de biblioteca em Java puro (SE, sem frameworks): modelagem de domínio, repositórios e hierarquia de exceções customizada, construído para consolidar fundamentos de orientação a objetos.
+- **[Precify API](https://github.com/devbianchi/precify-api)** — API REST em Java 21 e Spring Boot com auxílio de IA para monitoramento de preços de concorrentes: cadastro de produtos, coleta de preços e histórico.
+- **[Precify Web](https://github.com/devbianchi/precify-web)** — Front-end em React que consome a API do Precify (login, listagem de produtos, histórico de preços).
+- **[Tech Hub](https://github.com/devbianchi/TechHub)** — Aplicação multi-página em React com rotas e transições animadas, projeto de prática com React Router.
+- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)** — Sistema IoT de preservação de nutrientes com Arduino (projeto do primeiro semestre).
+
+💜 Sinta-se à vontade para explorar meus repositórios — mais projetos de backend a caminho.
 
 ![snake gif](https://github.com/devbianchi/devbianchi/blob/output/snake.svg)
-
