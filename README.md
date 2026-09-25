@@ -36,9 +36,9 @@ Aprofundando design de APIs, autenticação e arquitetura limpa com Java e Sprin
 Seguindo com fundamentos de AWS, infraestrutura e certificações de banco de dados gerenciado — reforçado pela vivência prática no estágio de infraestrutura.
 
 **Idiomas**
-Estudo constante de japonês, voltado ao objetivo de trabalhar como desenvolvedor no Japão (rumo ao N2), e de inglês, para atuação global.
+Estudo constante de japonês, voltado ao objetivo de trabalhar como desenvolvedor no Japão (rumo ao N2), e de inglês, para atuação global. Estou estudando Espanhol também, ainda que básico.
 
-## 🚧 Projetos em desenvolvimento
+## Projetos em desenvolvimento
 
 - **L9s** — Sistema de gestão para vendedores e pós-vendas com ranking de leads por potencial (top 20 clientes), otimização de rotas de visita e dashboards estilo BI para gestores. Backend em Java 21 + Spring Boot + PostgreSQL, frontend em React (Vite + shadcn), arquitetura em monólito modular.
 - **Kenko** — Sistema de secretariado e agenda para clínicas médicas: o médico define sua disponibilidade em uma data e o cliente agenda dentro das datas disponíveis. Inclui calendário, agenda, cadastro e funcionalidades de marcação.
@@ -49,7 +49,6 @@ Estudo constante de japonês, voltado ao objetivo de trabalhar como desenvolvedo
 - **[Precify API](https://github.com/devbianchi/precify-api)** — API REST em Java 21 e Spring Boot com auxílio de IA para monitoramento de preços de concorrentes: cadastro de produtos, coleta de preços e histórico.
 - **[Precify Web](https://github.com/devbianchi/precify-web)** — Front-end em React que consome a API do Precify (login, listagem de produtos, histórico de preços).
 - **[Tech Hub](https://github.com/devbianchi/TechHub)** — Aplicação multi-página em React com rotas e transições animadas, projeto de prática com React Router.
-- **[BioKeeper](https://github.com/devbianchi/Projeto-Arduino-BioKeeper)** — Sistema IoT de preservação de nutrientes com Arduino (projeto do primeiro semestre).
 
 💜 Sinta-se à vontade para explorar meus repositórios — mais projetos de backend a caminho.
 
