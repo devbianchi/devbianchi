@@ -14,17 +14,17 @@
 <!--- -- About Me  ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-Backend Java Developer em formação, com foco em construir uma base sólida em Java e Spring.
+Backend Java Developer em formação, com foco em construir uma base sólida em Java e Spring — rumo a uma carreira como desenvolvedor no Japão.
 
 👋 Olá! Sou Guilherme Bianchi Machado, estudante de tecnologia com foco em Backend Development.
 
-Curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Indaiatuba e atualmente atuo em estágio de TI, mantendo estudo constante em Java e Spring em paralelo. Uso Arch Linux no dia a dia e busco aplicar boas práticas de código e arquitetura em tudo que construo.
+Curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Indaiatuba e atualmente atuo como estagiário de TI (infraestrutura/cloud) na Infomatic, mantendo estudo constante em Java e Spring em paralelo. Uso Arch Linux no dia a dia e busco aplicar boas práticas de código e arquitetura em tudo que construo.
 
 Um pouco mais sobre mim:
 
-- **Stack principal:** Java, Spring Boot, PostgreSQL, MySQL, REST APIs (JWT, Swagger/OpenAPI), JUnit 5, Mockito, Testcontainers, Docker, GitHub Actions.
+- **Stack principal:** Java 21+, Spring Boot 3+, PostgreSQL, MySQL, REST APIs (JWT, Swagger/OpenAPI), JUnit 5, Mockito, Testcontainers, Docker, GitHub Actions, Maven.
 - **Cloud:** fundamentos de AWS, com certificações em Global Infrastructure (Region, AZ, VPC) e Managed Databases/DMS.
-- **Objetivo:** consolidar backend com Java/Spring, seguir para certificação OCA Java e AWS, e evoluir para uma posição de desenvolvedor(a) backend.
+- **Objetivo:** consolidar backend com Java/Spring, seguir para certificação OCA Java e AWS, e evoluir para uma posição de desenvolvedor(a) backend — com foco em atuar no Japão (estudo constante de japonês rumo ao N2).
 - Quando não estou codando, provavelmente estou tomando café.
 
 ## O que estou estudando e construindo
@@ -33,7 +33,15 @@ Um pouco mais sobre mim:
 Aprofundando design de APIs, autenticação e arquitetura limpa com Java e Spring Boot.
 
 **Cloud Computing**
-Seguindo com fundamentos de AWS, infraestrutura e certificações de banco de dados gerenciado.
+Seguindo com fundamentos de AWS, infraestrutura e certificações de banco de dados gerenciado — reforçado pela vivência prática no estágio de infraestrutura.
+
+**Idiomas**
+Estudo constante de japonês, voltado ao objetivo de trabalhar como desenvolvedor no Japão (rumo ao N2), e de inglês, para atuação global.
+
+## 🚧 Projetos em desenvolvimento
+
+- **L9s** — Sistema de gestão para vendedores e pós-vendas com ranking de leads por potencial (top 20 clientes), otimização de rotas de visita e dashboards estilo BI para gestores. Backend em Java 21 + Spring Boot + PostgreSQL, frontend em React (Vite + shadcn), arquitetura em monólito modular.
+- **Kenko** — Sistema de secretariado e agenda para clínicas médicas: o médico define sua disponibilidade em uma data e o cliente agenda dentro das datas disponíveis. Inclui calendário, agenda, cadastro e funcionalidades de marcação.
 
 ## Meus Projetos
 
