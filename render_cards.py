@@ -49,9 +49,10 @@ FACES = {
 }
 
 W = 880          # largura do card de largura total (sem margem)
-M = 14           # margem transparente em volta de cada card (espaçamento entre cards)
+MX = 8           # margem transparente lateral de cada card: 2*MX = espaço horizontal entre cards
+MY = 0           # sem margem vertical: o espaço vertical vem do parágrafo do README (16px)
 PAD = 36         # margem interna
-HALF = 428       # card dentro de uma célula de tabela de duas colunas
+HALF = 432       # card dentro de uma célula de tabela de duas colunas
 HPAD = 26
 PROJECT_H = 300
 
@@ -164,15 +165,15 @@ class Card:
                 f"@font-face{{font-family:'{fam}';font-weight:400;font-style:normal;"
                 f"src:url(data:font/woff;base64,{subset_b64(face, ''.join(sorted(chars)))}) format('woff')}}"
             )
-        tw_, th = self.w + 2 * M, self.h + 2 * M
+        tw_, th = self.w + 2 * MX, self.h + 2 * MY
         return (
             f'<svg xmlns="http://www.w3.org/2000/svg" width="{tw_}" height="{th}" '
             f'viewBox="0 0 {tw_} {th}" role="img" aria-label="{esc(self.label)}">'
             f'<title>{esc(self.label)}</title>'
             f'<style>{"".join(css)}</style>'
-            f'<rect x="{M + 0.5}" y="{M + 0.5}" width="{self.w - 1}" height="{self.h - 1}" fill="{C["bg"]}" '
+            f'<rect x="{MX + 0.5}" y="{MY + 0.5}" width="{self.w - 1}" height="{self.h - 1}" fill="{C["bg"]}" '
             f'stroke="{C["edge"]}" stroke-width="1"/>'
-            f'<g transform="translate({M},{M})">{"".join(self.parts)}</g></svg>\n'
+            f'<g transform="translate({MX},{MY})">{"".join(self.parts)}</g></svg>\n'
         )
 
 
@@ -195,7 +196,7 @@ def cover():
     write("cover", c)
 
 
-LINK_W, LINK_H = 200, 118  # todos os cards de link têm o mesmo tamanho
+LINK_W, LINK_H = 208, 118  # todos os cards de link têm o mesmo tamanho
 
 
 def link(i, item):
@@ -259,7 +260,7 @@ def focus():
     rows = [(lab, wrap("sans", val, 14, W - 2 * PAD - 190)) for lab, val in P["focus"]]
     h = 74 + sum(len(v) * 24 + 12 for _, v in rows) + 18
     c = Card("Foco técnico", W, h)
-    c.head(3, "Foco técnico", C["aqua"])
+    c.head(2, "Foco técnico", C["aqua"])
     y = 84
     for i, (lab, val) in enumerate(rows):
         c.t(PAD, y, lab.upper(), "mono", 10.5, CYCLE[i % len(CYCLE)], ls=1.2)
@@ -274,7 +275,7 @@ def how():
     blocks = [(it, wrap("sans", it["body"], 13.5, W - 2 * PAD - 250)) for it in P["how"]]
     h = 74 + sum(max(26, 21 * len(b) + 10) for _, b in blocks) + 14
     c = Card("Como eu trabalho", W, h)
-    c.head(4, "Como eu trabalho", C["yellow"])
+    c.head(3, "Como eu trabalho", C["yellow"])
     y = 84
     for i, (it, body) in enumerate(blocks):
         c.t(PAD, y, it["title"], "sansb", 14, CYCLE[i % len(CYCLE)])
@@ -290,7 +291,7 @@ def priorities():
     items = [wrap("sans", p, 14, W - 2 * PAD - 44) for p in P["priorities"]]
     h = 74 + sum(len(i) * 22 + 12 for i in items) + 16
     c = Card("Prioridades", W, h)
-    c.head(5, "Prioridades", C["orange"])
+    c.head(4, "Prioridades", C["orange"])
     y = 84
     for i, lines in enumerate(items):
         c.t(PAD, y, f"0{i + 1}", "mono", 12, CYCLE[(i + 2) % len(CYCLE)])
@@ -319,48 +320,43 @@ def closing():
 
 
 # ---- README ----------------------------------------------------------------
+def img(src, alt, width, url=None):
+    tag = f'<img src="cards/{src}.svg" width="{width}" alt="{esc(alt)}" />'
+    return f'<a href="{esc(url)}">{tag}</a>' if url else tag
+
+
 def readme():
-    link_cells = "".join(
-        f'<td width="25%" valign="top"><a href="{esc(l["url"])}">'
-        f'<img src="cards/link-{i}.svg" width="100%" alt="{esc(l["label"])}: {esc(l["title"])}, {esc(l["sub"])}" />'
-        f"</a></td>"
+    # Sem tabelas: o GitHub desenha bordas e padding nelas. Cada bloco é um <p>
+    # (espaço vertical uniforme) e as imagens de uma linha ficam coladas, sem espaço entre as tags.
+    links = "".join(
+        img(f"link-{i}", f"{l['label']}: {l['title']}, {l['sub']}", "24.9%", l["url"])
         for i, l in enumerate(P["links"])
     )
-    project_cells = []
+    cells = []
     for i, p in enumerate(P["projects"]):
-        img = (f'<img src="cards/project-{i}.svg" width="100%" '
-               f'alt="{esc(p["name"])}. {esc(p["description"])}" />')
-        if p.get("url") and not p.get("private"):
-            img = f'<a href="{esc(p["url"])}">{img}</a>'
-        project_cells.append(f'<td width="50%" valign="top">{img}</td>')
-    rows = "".join(
-        f"<tr>{''.join(project_cells[i:i + 2])}</tr>" for i in range(0, len(project_cells), 2)
+        url = p["url"] if p.get("url") and not p.get("private") else None
+        cells.append(img(f"project-{i}", f"{p['name']}. {p['description']}", "49.9%", url))
+    rows = "\n\n".join(
+        f'<p>{"".join(cells[i:i + 2])}</p>' for i in range(0, len(cells), 2)
     )
+    cover = img("cover", f"{P['name']}, @{P['handle']}. {P['role']}", "100%", "https://github.com/devbianchi")
     return f"""<!-- Os cards em cards/ são gerados por render_cards.py a partir de profile.json. Edite o JSON e rode o script. -->
 
-<div align="center">
+<p align="center">{cover}</p>
 
-<a href="https://github.com/devbianchi"><img src="cards/cover.svg" width="100%" alt="{esc(P['name'])}, @{P['handle']}. {esc(P['role'])}" /></a>
+<p>{links}</p>
 
-<table>
-<tr>{link_cells}</tr>
-</table>
+<p align="center">{img("about", "Sobre mim", "100%")}</p>
 
-<img src="cards/about.svg" width="100%" alt="Sobre mim" />
-
-<table>
 {rows}
-</table>
 
-<img src="cards/focus.svg" width="100%" alt="Foco técnico" />
+<p align="center">{img("focus", "Foco técnico", "100%")}</p>
 
-<img src="cards/how.svg" width="100%" alt="Como eu trabalho" />
+<p align="center">{img("how", "Como eu trabalho", "100%")}</p>
 
-<img src="cards/priorities.svg" width="100%" alt="Prioridades" />
+<p align="center">{img("priorities", "Prioridades", "100%")}</p>
 
-<img src="cards/closing.svg" width="100%" alt="{esc(P['closing'])}" />
-
-</div>
+<p align="center">{img("closing", P["closing"], "100%")}</p>
 """
 
 
